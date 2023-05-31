@@ -17,4 +17,8 @@
 #### 1. 金发美女
 >**prompt**：beautiful blonde woman + ice blue eyes + slight smile + slight smile + innocent look + soft light + blue silk blouse intricate gold detailing + smooth + portrait photography + super detailed --iw 2 --ar 3:4 
 
-![img](https://i3.hoopchina.com.cn/feedback_api/img/23525-7fw90u.jpg)
+<img width="500" alt="image" src="https://i3.hoopchina.com.cn/feedback_api/img/23525-7fw90u.jpg">
+
+#### 2.角色概念设计模型
+>**prompt**: [Hulk], head, close up character design, multiple concept designs, concept design sheet, white background, style of Yoshitaka Amano
+<img width="500" alt="image" src="https://i3.hoopchina.com.cn/feedback_api/img/23531-eb96k4.jpg">
