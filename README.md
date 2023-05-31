@@ -1,5 +1,3 @@
-# PromptHub_Best_Prompts
-
 ## PromptHub提示词交易平台
 支持各大模型（GPT、Midjourney、文心一言等）prompt发布售卖、购买，售卖金额实时到账
 
