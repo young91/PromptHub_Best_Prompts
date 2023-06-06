@@ -3,7 +3,7 @@
 
 平台地址：[PromptHub提示词交易平台](https://prompthub.tianlianzh.com/)
 
-加群共创交流，大量现金奖励：
+**加群共创交流，大量现金奖励**：
 
 <img width="300" alt="image" src="https://github.com/young91/PromptHub_Best_Prompts/assets/6427871/4d96caa7-164e-4751-b9d7-9c1f3f457aee">
 
