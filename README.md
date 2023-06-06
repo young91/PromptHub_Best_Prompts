@@ -3,7 +3,7 @@
 
 平台地址：[PromptHub提示词交易平台](https://prompthub.tianlianzh.com/)
 
-加群共创交流：
+加群共创交流，大量现金奖励：
 
 <img width="300" alt="image" src="https://github.com/young91/PromptHub_Best_Prompts/assets/6427871/4d96caa7-164e-4751-b9d7-9c1f3f457aee">
 
@@ -29,3 +29,8 @@
 介绍：https://prompthub.tianlianzh.com/prompt/22
 >**prompt**: Infographic drawing of [iron man suit]
 <img width="500" alt="image" src="https://i3.hoopchina.com.cn/feedback_api/img/23531-25t2di.jpg">
+
+#### 4.新DOTA英雄
+介绍：https://prompthub.tianlianzh.com/prompt/12
+>**prompt**: new dota hero character, realistic image, strength type, looks like kratos of god of war, weilding big sword, fire power --v 5
+<img width="500" alt="image" src="https://i3.hoopchina.com.cn/feedback_api/img/23525-obu9jm.jpg">
